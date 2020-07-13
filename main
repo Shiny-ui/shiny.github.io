@@ -1,0 +1,19 @@
+<html>
+	<head>
+		<title>Teaching Myself</title>
+	</head>
+
+	<body>
+		<h1>Teaching Myself</h1>
+		<p>This is my first webpage.</p>
+		<hr />
+		<p>Another paragraph.</p>
+		<br>test test</br>
+		<img src="swag.bmp">
+		<p>This is a test a of a video of my friend with special needs :)</p>
+		<video width="640" height="360" controls>
+		<source src="IMG-1876.mp4" type="video/mp4">
+		</video>
+	</body>
+
+</html>
